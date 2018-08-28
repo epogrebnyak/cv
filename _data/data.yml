@@ -191,7 +191,7 @@ publications:
 
 skills:
 
-    title: Programming languages
+    title: Technical competences
     toolset:
       - name: Python
         level: 75%
@@ -208,13 +208,6 @@ skills:
       - name: Visual Basic for Applications
         level: 10%
 
-
-
-    title: Skills &amp; Proficiency
-    toolset:
-      - name: Python
-        level: 75%
-
       - name: Testing and integration (pytest, TravisCI)
         level: 65%
 
@@ -224,14 +217,8 @@ skills:
       - name: Econometrics (EViews, gretl)
         level: 50%
 
-      - name: R
-        level: 50%
-
       - name: API design (Flask)
         level: 35%
-
-      - name: Julia
-        level: 30%
 
       - name: Databases (MySQL/SQLAlchemy)
         level: 25%
