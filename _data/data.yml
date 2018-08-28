@@ -189,13 +189,13 @@ skills:
       - name: Python
         level: 75%
 
-      - Unittesting and CI (pytest, TravisCI) 
+      - name: Unittesting and CI (pytest, TravisCI) 
         level: 65%
 
       - name: Visualisation (matplotlib, ggplot, bokeh, plotly)
         level: 65%
 
-      - API design (Flask) 
+      - name: API design (Flask) 
         level: 35%       
 
       - name: Econometrics (EViews, gretl)
