@@ -7,41 +7,41 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
-    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    name: Evgeniy Pogrebnyak
+    tagline: Economist
+    avatar: ep.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    github: sharu725
+    email: e.pogrebnyak@gmail.com
+    phone: 
+    #website: blog.webjeda.com #do not add http://
+    #linkedin: alandoe
+    github: epogrebnyak
     gitlab:
     bitbucket:
-    twitter: '@webjeda'
-    stack-overflow: # Number/Username, e.g. 123456/alandoe
+    twitter: 'PogrebnyakE'
+    stack-overflow: 1758363/epo # Number/Username, e.g. 123456/alandoe
     codewars:
 
     languages:
       - idiom: English
-        level: Native
+        level: Fluent
 
       - idiom: French
-        level: Professional
+        level: Working knowledge
 
-      - idiom: Spanish
-        level: Professional
+      - idiom: Russian
+        level: Native
         
-    interests:
-      - item: Climbing
-        link:
+    #interests:
+    #  - item: Climbing
+    #    link:
 
-      - item: Snowboarding
-        link:
+    #  - item: Snowboarding
+    #    link:
 
-      - item: Cooking
-        link:
+    #  - item: Cooking
+    #    link:
 
 career-profile:
     title: Career Profile
@@ -55,9 +55,9 @@ career-profile:
       Second paragraph if required.
 
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
+    - degree: PhD Economics
+      university: Russian Academy of Sciences
+      time: 2009
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
