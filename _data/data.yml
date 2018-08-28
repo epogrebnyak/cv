@@ -1,5 +1,5 @@
 #
-# Be aware that even a small syntax error here can lead to failures in output. 
+# Be aware that even a small syntax error here can lead to failures in output.
 #
 
 sidebar:
@@ -13,9 +13,9 @@ sidebar:
 
     # Sidebar links
     email: e.pogrebnyak@gmail.com
-    phone: 
+    phone:
     website: # blog.webjeda.com #do not add http://
-    linkedin: 
+    linkedin:
     github: epogrebnyak
     gitlab:
     bitbucket:
@@ -32,7 +32,7 @@ sidebar:
 
       - idiom: Russian
         level: Native
-        
+
     interests:
 
       - item: Financial institutions, development banks, capital projects
@@ -47,7 +47,7 @@ sidebar:
       - item: Cryptoassets
         link:
 
-      - item: Clean code and reproducible research 
+      - item: Clean code and reproducible research
         link:
 
 
@@ -55,13 +55,15 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-        I would like to learn about opportunities in corporate digital transformation projects, 
-        new digital financing products and data-driven government policy. 
+        I would like to learn about opportunities in corporate digital
+        transformation, new financing products, and data-driven government policy.
 
-        My previous background is in national development bank strategy / internal research, 
-        industrial policy analysis and market forecasting (power sector, automotive industry). 
-        I have strong skills in data processing and quantitative modeling and can deliver research 
-        outcomes or business case to various audiences.
+        My previous background involves a national development bank strategy role,
+        industrial policy analysis, macroeconomic and market forecasting
+        (power sector, automotive industry).
+
+        I have strong skills in quantitative modeling and can deliver research
+        or business case to various audiences.
 
 education:
     - degree: PhD Economics
@@ -75,7 +77,7 @@ education:
         pretium quis, sem.
 
           - Bullet point
-          - Bullet point 
+          - Bullet point
 
     - degree: Visting PhD
       university: London Business School Energy Markets Group
@@ -88,7 +90,7 @@ education:
         pretium quis, sem.
 
           - Bullet point
-          - Bullet point 
+          - Bullet point
 
 experiences:
     - role: Lead Developer
@@ -106,7 +108,7 @@ experiences:
         architecto beatae vitae dicta sunt explicabo.
 
           - Bullet point
-          - Bullet point 
+          - Bullet point
 
     - role: Senior Software Engineer
       time: 2014 - 2015
@@ -189,19 +191,19 @@ skills:
       - name: Python
         level: 75%
 
-      - name: Unittesting and CI (pytest, TravisCI) 
+      - name: Unittesting and CI (pytest, TravisCI)
         level: 65%
 
       - name: Visualisation (matplotlib, ggplot, bokeh, plotly)
         level: 65%
 
-      - name: API design (Flask) 
-        level: 35%       
+      - name: API design (Flask)
+        level: 35%
 
       - name: Econometrics (EViews, gretl)
         level: 50%
 
-      - name: R 
+      - name: R
         level: 50%
 
       - name: Julia
