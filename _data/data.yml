@@ -52,21 +52,20 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-	
+        
         Proficient in quantitative modeling, delivery of research findings
-		to various audiences and integration of analytics in business processes and planning.
+        to various audiences and integration of analytics in business processes and planning.
 
         My previous background involves:
           - national development bank strategy role
           - industrial policy analysis
           - market research and simulation (power sector, automotive industry)
-		  - macroeconomic modeling
+          - macroeconomic modeling
 
-     	Interested in corporate digital transformation projects, new financing products, 
-		and data-driven government policy.
+        Interested in corporate digital transformation projects, new financing products, 
+        and data-driven government policy.
 
-		  
-		  
+
 education:
 
     - degree: PhD Economics
@@ -232,6 +231,6 @@ skills:
 
       - name: Linux
         level: 10%
-		
+
 #footer: >
 #    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
