@@ -8,14 +8,14 @@ sidebar:
 
     # Profile information
     name: Evgeny Pogrebnyak
-    tagline: Economist (Financial Institutions, Corporate Sector, Macro)
+    tagline: Economist (Financial Institutions/Macro)
     avatar: ep.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: e.pogrebnyak@gmail.com
     phone: 
-    #website: blog.webjeda.com #do not add http://
-    #linkedin: alandoe
+    website: # blog.webjeda.com #do not add http://
+    linkedin: 
     github: epogrebnyak
     gitlab:
     bitbucket:
@@ -55,13 +55,15 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
+       I would like to learn about opportunities in corporate digital transformation projects, digital-based financing 
+       products and data-driven government policy.
 
-      Second paragraph if required.
+       I believe forecast automation is the next step in economic analysis and corporate decision-making. Hurdles to overcome 
+       are data governance, forecast uncertainty and risk controls, as well as regulatory changes and shifts in data culture.  
+
+       My previous background in national development bank strategy / internal research departments, industrial policy 
+       research and market forecasting (power sector, automotive industry). I have strong skills in quantitative modeling and 
+       research or business case delivery to various audiences. 
 
 education:
     - degree: PhD Economics
@@ -77,9 +79,9 @@ education:
           - Bullet point
           - Bullet point 
 
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
+    - degree: Visting PhD
+      university: London Business School Energy Markets Group
+      time: 2004
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -189,16 +191,34 @@ skills:
       - name: Python
         level: 75%
 
+      - Unittesting and CI (pytest, TravisCI) 
+        level: 65%
+        
+      - name: Visualisation (matplotlib, ggplot, bokeh, plotly)
+        level: 65%
+
+      - API design (Flask) 
+        level: 35%       
+
       - name: Econometrics (EViews, gretl)
-        level: 98%
+        level: 50%
 
       - name: R 
         level: 50%
 
       - name: Julia
+        level: 30%
+
+      - name: Databases (MySQL/SQLAlchemy)
         level: 25%
 
-      - name: Matlab (EViews, gretl)
+      - name: Cloud services (AWS, Heroku)
+        level: 20%
+
+      - name: Linux
+        level: 20%
+
+      - name: Matlab
         level: 5%
 
 #footer: >
