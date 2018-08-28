@@ -52,17 +52,21 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-        I would like to learn about opportunities in corporate digital
-        transformation, new financing products, and data-driven government policy.
+	
+        Proficient in quantitative modeling, delivery of research findings
+		to various audiences and integration of analytics in business processes and planning.
 
         My previous background involves:
           - national development bank strategy role
           - industrial policy analysis
-          - macroeconomic and market research (power sector, automotive industry)
+          - market research and simulation (power sector, automotive industry)
+		  - macroeconomic modeling
 
-        I have strong quantitative modeling skills and
-        can deliver research findings and busniess cases to various audiences.
+     	Interested in corporate digital transformation projects, new financing products, 
+		and data-driven government policy.
 
+		  
+		  
 education:
 
     - degree: PhD Economics
@@ -71,9 +75,9 @@ education:
       details: |
           ["Policy parameters in comptetitive electricity market in Russia".](https://ecfor.ru/publication/mehanizmy-regulirovaniya-elektroenergetiki-rossii/)
 
-           - Agent-based model plant-level of competitive wholesale electricty market.
-           - Prices affected by world, resources, auction rules and behaviours.
-           - Reserve margin should complement prices as reform policy target.
+           - Agent-based plant-level model of competitive wholesale electricty market.
+           - Prices affected by world, resources, auction rules and agent behaviours.
+           - Reserve margin requirement should complement prices as reform policy target.
 
 
       #    Воспроизводственные параметры и механизмы регулирования электроэнергетики России в условиях перехода к конкурентному рынку
@@ -228,5 +232,6 @@ skills:
 
       - name: Linux
         level: 10%
+		
 #footer: >
 #    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
