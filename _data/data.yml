@@ -3,12 +3,12 @@
 #
 
 sidebar:
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Evgeniy Pogrebnyak
-    tagline: Economist
+    name: Evgeny Pogrebnyak
+    tagline: Economist (Financial Institutions, Corporate Sector, Macro)
     avatar: ep.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -33,15 +33,24 @@ sidebar:
       - idiom: Russian
         level: Native
         
-    #interests:
-    #  - item: Climbing
-    #    link:
+    interests:
 
-    #  - item: Snowboarding
-    #    link:
+      - item: Financial institutions, development banks, capital projects
+        link:
 
-    #  - item: Cooking
-    #    link:
+      - item: Industrial policy, industry analysis and corporate finance
+        link:
+
+      - item: Macroeconomic forecasting
+        link:
+
+      - item: Cryptoassets
+        link:
+
+      - item: Clean code and reproducible research 
+        link:
+
+
 
 career-profile:
     title: Career Profile
@@ -177,23 +186,20 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
+      - name: Python
+        level: 75%
+
+      - name: Econometrics (EViews, gretl)
         level: 98%
 
-      - name: Javascript & jQuery
-        level: 98%
+      - name: R 
+        level: 50%
 
-      - name: Angular
-        level: 98%
+      - name: Julia
+        level: 25%
 
-      - name: HTML5 & CSS
-        level: 95%
+      - name: Matlab (EViews, gretl)
+        level: 5%
 
-      - name: Ruby on Rails
-        level: 85%
-
-      - name: Sketch & Photoshop
-        level: 60%
-
-footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+#footer: >
+#    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
