@@ -4,7 +4,7 @@
 
 sidebar:
     about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
-    education: True # set to False if you want education in main section instead of in sidebar
+    education: False # set to False if you want education in main section instead of in sidebar
 
     # Profile information
     name: Evgeny Pogrebnyak
@@ -56,12 +56,12 @@ career-profile:
         transformation, new financing products, and data-driven government policy.
 
         My previous background involves:
-          - a national development bank strategy role
+          - national development bank strategy role
           - industrial policy analysis
-          - macroeconomic and market forecasting (power sector, automotive industry).
+          - macroeconomic and market research (power sector, automotive industry)
 
-        I have strong skills in quantitative modeling and can deliver research
-        or business case to various audiences.
+        I have strong quantitative modeling skills and
+        can deliver research findings and busniess cases to various audiences.
 
 education:
 
@@ -91,7 +91,7 @@ education:
       university: London Business School, Energy Markets Group
       time: 2004
 
-    - degree: BSc (Economics), MSc (Economic Policy)
+    - degree: BSc, MSc
       university: Moscow State University, Economics Department
       time: 1995-2001
 
@@ -190,16 +190,35 @@ publications:
         conference: "Comm. ACM 4 (1961), 51–55"
 
 skills:
-    title: Skills &amp; Proficiency
 
+    title: Programming languages
     toolset:
       - name: Python
         level: 75%
 
-      - name: Unittesting and CI (pytest, TravisCI)
+      - name: R
+        level: 50%
+
+      - name: Julia
+        level: 20%
+
+      - name: Matlab
+        level: 10%
+
+      - name: Visual Basic for Applications
+        level: 10%
+
+
+
+    title: Skills &amp; Proficiency
+    toolset:
+      - name: Python
+        level: 75%
+
+      - name: Testing and integration (pytest, TravisCI)
         level: 65%
 
-      - name: Visualisation (matplotlib, ggplot, bokeh, plotly)
+      - name: Visualisation (matplotlib, bokeh, plotly)
         level: 65%
 
       - name: Econometrics (EViews, gretl)
