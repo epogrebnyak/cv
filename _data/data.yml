@@ -66,31 +66,33 @@ career-profile:
         or business case to various audiences.
 
 education:
+    #title: Short courses
+    #- degree: IFW Keiel
+
+
+    title: Qualifications
     - degree: PhD Economics
       university: Russian Academy of Sciences
       time: 2009
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-
-          - Bullet point
-          - Bullet point
+      #details: |
+      #  Describe your study here lorem ipsum dolor sit amet, consectetuer
+      #  adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+      #   sociis natoque penatibus et magnis dis parturient montes, nascetur
+      #   ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+      #  pretium quis, sem.
+      #
+      #    - Bullet point
+      #    - Bullet point
 
     - degree: Visting PhD
-      university: London Business School Energy Markets Group
+      university: London Business School, Energy Markets Group
       time: 2004
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
 
-          - Bullet point
-          - Bullet point
+    - degree: BSc (Economics), MSc (Economic Policy)
+      university: Moscow State University, Economics Department
+      time: 1995-2001
+
+
 
 experiences:
     - role: Lead Developer
