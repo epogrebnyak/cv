@@ -191,7 +191,7 @@ skills:
 
       - Unittesting and CI (pytest, TravisCI) 
         level: 65%
-        
+
       - name: Visualisation (matplotlib, ggplot, bokeh, plotly)
         level: 65%
 
