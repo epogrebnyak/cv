@@ -72,15 +72,19 @@ experiences:
       -  role:
          time:
          company: [VEB](http://veb.ru)
+         details:
       -  role:
          time:
          company: [ICSS](http://icss.ac.ru)
+         details:
       -  role:
          time:
          company: [SibAl](https://en.wikipedia.org/wiki/Basic_Element_(company))
+         details:
       -  role:
          time:
          company: [CMASF](http://forecast.ru) / [IEF RAS](http://ecfor.ru)
+         details:
 
 projects:
      title: Teaching and open source projects
