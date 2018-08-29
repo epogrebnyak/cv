@@ -41,7 +41,7 @@ sidebar:
       - item: Corporate finance, industry analysis and industrial policy
         link:
 
-      - item: Macroeconomic forecasting
+      - item: Macroeconomic forecasting and econometrics
         link:
 
       - item: Clean code and reproducible research
@@ -52,43 +52,57 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-        
-        Proficient in quantitative modeling, delivery of research findings
-        to various audiences and integration of analytics in business processes and planning.
+
+        Proficient in quantitative modeling and delivery of research findings
+        to various audiences. Experienced in financial institutions analytics
+        and business processes.
 
         My previous background involves:
           - national development bank strategy role
-          - industrial policy analysis
           - market research and simulation (power sector, automotive industry)
+          - industrial policy analysis
           - macroeconomic modeling
 
-        Interested in corporate digital transformation projects, new financing products, 
-        and data-driven government policy.
+        Interested in:
+          - digital transformation projects
+          - providing digital solutions for corporate credit / investment
+          - data-driven government policy
+
+
+projects:
+     title: Teaching and open source projects
+     # intro: >
+        # You can list your side projects or open source libraries in this
+        # section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+        # Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+
+     assignments:
+        - title: Machine-readable financial statements, course at Center for Financial Mathematics (HSE/MSU)
+        # link: "#hook"
+          tagline: "Build a data pipeline to analyse 1.2 million firms' capital structure, investment and productivity."
+
+       - title: Macroeconomic time series dataset, API and browser (via Flask/Plotly)
+         link: https://github.com/mini-kep/intro
+         tagline: "Parsers, database, frontend and a public end-user API to deliver Russian macroeconomic time series, inspired by St Louis FRED."
 
 
 education:
+
+    #-  degree: Short courses
+    #   university: K
+    #   time: 2009
+    #   details: |
 
     - degree: PhD Economics
       university: Russian Academy of Sciences
       time: 2009
       details: |
-          ["Policy parameters in comptetitive electricity market in Russia".](https://ecfor.ru/publication/mehanizmy-regulirovaniya-elektroenergetiki-rossii/)
+          Thesis: ["Policy parameters in comptetitive electricity market in Russia".](https://ecfor.ru/publication/mehanizmy-regulirovaniya-elektroenergetiki-rossii/)
+          #    Воспроизводственные параметры и механизмы регулирования электроэнергетики России в условиях перехода к конкурентному рынку
 
            - Agent-based plant-level model of competitive wholesale electricty market.
-           - Prices affected by world, resources, auction rules and agent behaviours.
+           - Prices affected by world, resources, auction rules and agent behaviour.
            - Reserve margin requirement should complement prices as reform policy target.
-
-
-      #    Воспроизводственные параметры и механизмы регулирования электроэнергетики России в условиях перехода к конкурентному рынку
-
-      #  Describe your study here lorem ipsum dolor sit amet, consectetuer
-      #  adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-      #   sociis natoque penatibus et magnis dis parturient montes, nascetur
-      #   ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-      #  pretium quis, sem.
-      #
-      #    - Bullet point
-      #    - Bullet point
 
     - degree: Visting PhD
       university: London Business School, Energy Markets Group
@@ -98,13 +112,18 @@ education:
       university: Moscow State University, Economics Department
       time: 1995-2001
 
+experiences:
+      -  company: [VEB](http://veb.ru)
+      -  company: [ICSS](http://icss.ac.ru)
+      -  company: [SibAl](https://en.wikipedia.org/wiki/Basic_Element_(company))
+      -  company: [CMASF](http://forecast.ru) / [IEF RAS](http://ecfor.ru)
 
 
-# experiences:
-    # - role: Lead Developer
-      # time: 2015 - Present
-      # company: Startup Hubs, San Francisco
-      # details: |
+#experiences:
+      #- role: Deputy Director
+      #  time: 2008 - Present
+      #  company: [VEB](http://veb.ru)
+      #  details: |
         # Describe your role here lorem ipsum dolor sit amet, consectetuer
         # adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
         # Cum sociis natoque penatibus et magnis dis parturient montes,
@@ -144,33 +163,6 @@ education:
           # - Bullet point
           # - Bullet point
 
-# projects:
-    # title: Projects
-    # intro: >
-      # You can list your side projects or open source libraries in this
-      # section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      # Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-
-    # assignments:
-      # - title: Velocity
-        # link: "#hook"
-        # tagline: "A responsive website template designed to help startups promote, market and sell their products."
-
-      # - title: DevStudio
-        # link: "#"
-        # tagline: "A responsive website template designed to help web developers/designers market their services."
-
-      # - title: Tempo
-        # link: "#"
-        # tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      # - title: Atom
-        # link: "#"
-        # tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      # - title: Delta
-        # link: "#"
-        # tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
 # publications:
     # title: Publications
