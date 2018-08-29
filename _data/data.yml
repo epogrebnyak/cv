@@ -57,7 +57,7 @@ career-profile:
         to various audiences. Experienced in financial institutions analytics
         and business processes.
 
-        My previous background involves:
+        My background involves:
           - national development bank strategy role
           - market research and simulation (power sector, automotive industry)
           - industrial policy analysis
@@ -65,9 +65,22 @@ career-profile:
 
         Interested in:
           - digital transformation projects
-          - providing digital solutions for corporate credit / investment
+          - solutions for digital corporate lending
           - data-driven government policy
 
+experiences:
+      -  role:
+         time:
+         company: [VEB](http://veb.ru)
+      -  role:
+         time:
+         company: [ICSS](http://icss.ac.ru)
+      -  role:
+         time:
+         company: [SibAl](https://en.wikipedia.org/wiki/Basic_Element_(company))
+      -  role:
+         time:
+         company: [CMASF](http://forecast.ru) / [IEF RAS](http://ecfor.ru)
 
 projects:
      title: Teaching and open source projects
@@ -77,9 +90,9 @@ projects:
         # Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
 
      assignments:
-        - title: Machine-readable financial statements, course at Center for Financial Mathematics (HSE/MSU)
+        - title: Machine-readable financial statements, course at Center for Financial Mathematics (at HSE/MSU)
         # link: "#hook"
-          tagline: "Build a data pipeline to analyse 1.2 million firms' capital structure, investment and productivity."
+          tagline: "Build a data pipeline to analyse 1.2 million firms capital structure, investment and productivity."
 
        - title: Macroeconomic time series dataset, API and browser (via Flask/Plotly)
          link: https://github.com/mini-kep/intro
@@ -112,11 +125,7 @@ education:
       university: Moscow State University, Economics Department
       time: 1995-2001
 
-experiences:
-      -  company: [VEB](http://veb.ru)
-      -  company: [ICSS](http://icss.ac.ru)
-      -  company: [SibAl](https://en.wikipedia.org/wiki/Basic_Element_(company))
-      -  company: [CMASF](http://forecast.ru) / [IEF RAS](http://ecfor.ru)
+
 
 
 #experiences:
