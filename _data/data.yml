@@ -57,53 +57,57 @@ career-profile:
         to various audiences. Experienced in financial institutions analytics
         and business processes.
 
-        My background involves:
-          - national development bank strategy role
-          - market research and simulation (power sector, automotive industry)
-          - industrial policy analysis
-          - macroeconomic modeling
+        # My background involves:
+        #   - national development bank strategy role
+        #   - market research and simulation (power sector, automotive industry)
+        #   - industrial policy analysis
+        #   - macroeconomic modeling
 
-        Interested in:
-          - digital transformation projects
-          - solutions for digital corporate lending
-          - data-driven government policy
+        # Interested in:
+        #   - digital transformation projects
+        #   - solutions for digital corporate lending
+        #   - data-driven government policy
 
 experiences:
-      -  role: ""
-         time: ""
-         company: [VEB](http://veb.ru)
-         details: ""
+      -  role: 
+         time: 
+         company: "[VEB](http://veb.ru)"
+         details: 
 
-      -  role: ""
-         time: ""
-         company: [ICSS](http://icss.ac.ru)
-         details: ""
+      # -  role: ""
+      #    time: ""
+      #    company: [ICSS](http://icss.ac.ru)
+      #    details: ""
 
-      -  role: ""
-         time: ""
-         company: [SibAl](https://en.wikipedia.org/wiki/Basic_Element_(company))
-         details: ""
+      # -  role: ""
+      #    time: ""
+      #    company: [SibAl](https://en.wikipedia.org/wiki/Basic_Element_(company))
+      #    details: ""
 
-      -  role: ""
-         time: ""
-         company: [CMASF](http://forecast.ru) / [IEF RAS](http://ecfor.ru)
-         details: ""
+      # -  role: ""
+      #    time: ""
+      #    company: [CMASF](http://forecast.ru) / [IEF RAS](http://ecfor.ru)
+      #    details: ""
 
 projects:
-     title: Teaching and open source projects
+     title: Teaching, research and open source projects
      # intro: >
         # You can list your side projects or open source libraries in this
         # section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
         # Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
 
      assignments:
-        - title: Machine-readable financial statements, course at Center for Financial Mathematics (at HSE/MSU)
-        # link: "#hook"
+        - title: Machine-readable financial statements, course at Center for Financial Mathematics - starting 09-2018
+          link: https://github.com/ru-corporate
           tagline: "Build a data pipeline to analyse 1.2 million firms capital structure, investment and productivity."
 
-       - title: Macroeconomic time series dataset, API and browser (via Flask/Plotly)
-         link: https://github.com/mini-kep/intro
-         tagline: "Parsers, database, frontend and a public end-user API to deliver Russian macroeconomic time series, inspired by St Louis FRED."
+        - title: Macroeconomic time series dataset, API and browser (via Flask/Plotly) - working prototype
+          link: https://github.com/mini-kep/intro
+          tagline: "Parsers, database, frontend and a public end-user API to deliver Russian macroeconomic time series, inspired by St Louis FRED."
+
+        - title: Financial models and digital financial twins in project finance - work in progress
+          link: 
+          tagline: "Draft proposal for voluntary real-time project disclosure"
 
 
 education:
@@ -135,23 +139,23 @@ education:
 
 
 
-#experiences:
-      #- role: Deputy Director
-      #  time: 2008 - Present
-      #  company: [VEB](http://veb.ru)
-      #  details: |
-        # Describe your role here lorem ipsum dolor sit amet, consectetuer
-        # adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        # Cum sociis natoque penatibus et magnis dis parturient montes,
-        # nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        # pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        # enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        # error sit voluptatem accusantium doloremque laudantium, totam rem
-        # aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        # architecto beatae vitae dicta sunt explicabo.
+# experiences:
+#       - role: Deputy Director
+#        time: 2008 - Present
+#        company: [VEB](http://veb.ru)
+#        details: |
+#         Describe your role here lorem ipsum dolor sit amet, consectetuer
+#         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+#         Cum sociis natoque penatibus et magnis dis parturient montes,
+#         nascetur ridiculus mus. Donec quam felis, ultricies nec,
+#         pellentesque eu, pretium quis, sem. Nulla consequat massa quis
+#         enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
+#         error sit voluptatem accusantium doloremque laudantium, totam rem
+#         aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
+#         architecto beatae vitae dicta sunt explicabo.
 
-          # - Bullet point
-          # - Bullet point
+#           - Bullet point
+#           - Bullet point
 
     # - role: Senior Software Engineer
       # time: 2014 - 2015
