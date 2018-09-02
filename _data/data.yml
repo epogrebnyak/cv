@@ -35,9 +35,6 @@ sidebar:
 
     interests:
 
-      - item: Digital transformation, fintech, cryptography
-        link:
-
       - item: Financial institutions, development banks, capital projects
         link:
 
@@ -85,7 +82,7 @@ experiences:
       - role: Engineer, Junior Scientific Fellow
         company: >
           [Center for Short-term Macroeconomic Forecasting](http://forecast.ru) 
-          / [ECFOR RAS](http://ecfor.ru)
+          / [Institute for Economic Forecasting RAS](http://ecfor.ru)
 
 projects:
 
