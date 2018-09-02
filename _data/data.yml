@@ -56,13 +56,13 @@ career-profile:
     title: Career Profile
     summary: |
 
-        Proficient in quantitative modeling and delivery of research findings
-        to various audiences. Experienced in financial institutions analytics
-        and business processes.
+        Proficient in quantitative modeling and delivery of findings
+        to various audiences. Experienced in financial institutions startegy
+        and corprate lending business processes.
 
         My background involves:
           - national development bank strategy role
-          - market modelling / simulation (power sector) and industry research (automotive)
+          - market modelling (power sector) and industry research (automotive)
           - industrial policy analysis
           - macroeconomic modeling
 
@@ -80,9 +80,9 @@ experiences:
         company: ICSS # "[ICSS](http://icss.ac.ru)"
       - role: Specialist
         company: SibAl 
-        details: https://en.wikipedia.org/wiki/Basic_Element_(company)
+        #details: https://en.wikipedia.org/wiki/Basic_Element_(company)
       - role: Engineer, Researcher
-        company: CMASF / Ecfor
+        company: Center for short-term macroeconomic forecasting / ECFOR
         details: <http://forecast.ru> <http://ecfor.ru>
 
 projects:
@@ -109,11 +109,31 @@ projects:
 
 
 education:
+    -  degree: Summer school
+       university: CEMFI
+       time: September 2015  
+       details: "
+        [Nowcasting, Short-Term Forecasting, and Turning-Points Real-Time Detection (Gabriel Pérez-Quirós)]
+        (https://www.cemfi.es/studies/css/course_previous_years.asp?c=14&y=2015)"
 
-    #-  degree: Short courses
-    #   university: 
-    #   time: 2009
-    #   details: |
+    -  degree: Short courses
+       university: IfW Kiel Advanced Studies Program
+       time: 2012-2014   
+       details: "
+          -	Exchange-Rate Economics (Lucio Sarno, City University, London) 
+          -	Applied Econometrics (Stefan Reitz, Kiel Institute)
+          - Monetary Policy: Theory and Practice (Volker Wieland, Goethe-Universität Frankfurt)"
+
+    -  degree: Summer School
+       university: Barcelona Graduate School of Economics
+       details: 2013-2014
+         - Exchange Rate Predictability (Barbara Rossi, CREI)
+         - Modeling Non-stationary and Non-linear Time Series  (Laura Mayoral, Gabriel Perez-Quiros)
+         - Systemic Risk and Macroprudential Policy.
+   
+
+
+        ([outline](http://www.cemfi.es))
 
     - degree: PhD Economics
       university: Russian Academy of Sciences
