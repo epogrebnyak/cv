@@ -35,6 +35,9 @@ sidebar:
 
     interests:
 
+      - item: Digital transformation, fintech, cryptography
+        link:
+
       - item: Financial institutions, development banks, capital projects
         link:
 
@@ -57,16 +60,16 @@ career-profile:
         to various audiences. Experienced in financial institutions analytics
         and business processes.
 
-        # My background involves:
-        #   - national development bank strategy role
-        #   - market research and simulation (power sector, automotive industry)
-        #   - industrial policy analysis
-        #   - macroeconomic modeling
+        My background involves:
+          - national development bank strategy role
+          - market modelling / simulation (power sector) and industry research (automotive)
+          - industrial policy analysis
+          - macroeconomic modeling
 
-        # Interested in:
-        #   - digital transformation projects
-        #   - solutions for digital corporate lending
-        #   - data-driven government policy
+        Interested in:
+           - digital transformation projects
+           - digital corporate lending solutions
+           - data-driven government policy
 
 experiences:
       -  role: 
@@ -74,20 +77,20 @@ experiences:
          company: "[VEB](http://veb.ru)"
          details: 
 
-      # -  role: ""
-      #    time: ""
-      #    company: [ICSS](http://icss.ac.ru)
-      #    details: ""
+       -  role: ""
+          time: ""
+          company: [ICSS](http://icss.ac.ru)
+          details: ""
 
-      # -  role: ""
-      #    time: ""
-      #    company: [SibAl](https://en.wikipedia.org/wiki/Basic_Element_(company))
-      #    details: ""
+       -  role: ""
+          time: ""
+          company: [SibAl](https://en.wikipedia.org/wiki/Basic_Element_(company))
+          details: ""
 
-      # -  role: ""
-      #    time: ""
-      #    company: [CMASF](http://forecast.ru) / [IEF RAS](http://ecfor.ru)
-      #    details: ""
+       -  role: ""
+          time: ""
+          company: [CMASF](http://forecast.ru) / [IEF RAS](http://ecfor.ru)
+          details: ""
 
 projects:
      title: Teaching, research and open source projects
