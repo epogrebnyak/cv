@@ -132,7 +132,13 @@ education:
         -	Applied Econometrics (Stefan Reitz, Kiel Institute)
         - Monetary Policy: Theory and Practice (Volker Wieland, Goethe-Universität Frankfurt)
 
-    -  degree: Summer School
+    -  degree: Learning exchange
+       university: Unicredit
+       time: 2013
+       details: |
+         - Introduction to Equator principles in bank lending
+
+    -  degree: Summer school
        university: Barcelona Graduate School of Economics
        time: 2013-2014
        details: |
