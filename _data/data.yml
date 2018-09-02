@@ -72,10 +72,10 @@ career-profile:
            - data-driven government policy
 
 experiences:
-      - company: "[VEB](http://veb.ru)"
-      - company: "[ICSS](http://icss.ac.ru)"
-      - company: "[SibAl](https://en.wikipedia.org/wiki/Basic_Element_(company))"
-      - company: "[CMASF](http://forecast.ru) / [IEF RAS](http://ecfor.ru)"
+      - company: VEB # "[VEB](http://veb.ru)"
+      - company: ICSS # "[ICSS](http://icss.ac.ru)"
+      - company: SibAl # "[SibAl](https://en.wikipedia.org/wiki/Basic_Element_(company))"
+      - company: CMASF #"[CMASF](http://forecast.ru) / [IEF RAS](http://ecfor.ru)"
 
 projects:
 
@@ -110,10 +110,9 @@ education:
     - degree: PhD Economics
       university: Russian Academy of Sciences
       time: 2009
+      #    Воспроизводственные параметры и механизмы регулирования электроэнергетики России в условиях перехода к конкурентному рынку
       details: |
           Thesis: ["Policy parameters in comptetitive electricity market in Russia".](https://ecfor.ru/publication/mehanizmy-regulirovaniya-elektroenergetiki-rossii/)
-          #    Воспроизводственные параметры и механизмы регулирования электроэнергетики России в условиях перехода к конкурентному рынку
-
            - Agent-based plant-level model of competitive wholesale electricty market.
            - Prices affected by world, resources, auction rules and agent behaviour.
            - Reserve margin requirement should complement prices as reform policy target.
