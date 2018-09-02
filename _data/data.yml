@@ -100,17 +100,17 @@ projects:
         # Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
 
      assignments:
-        - title: Machine-readable financial statements, course at Center for Financial Mathematics - starting 09-2018
+        - title: Machine-readable financial statements course, Center for Financial Mathematics (CMF)
           link: https://github.com/ru-corporate
-          tagline: "Build a data pipeline to analyse 1.2 million firms capital structure, investment and productivity."
+          tagline: "Build a data pipeline to analyse 1.2 million Russian firms capital structure, investment and productivity."
 
-        - title: Macroeconomic time series dataset, API and browser (via Flask/Plotly) - working prototype
+        - title: Macroeconomic time series dataset (API and browser)
           link: https://github.com/mini-kep/intro
-          tagline: "Parsers, database, frontend and a public end-user API to deliver Russian macroeconomic time series, inspired by St Louis FRED."
+          tagline: "Parsers, storage and a public end-user API to deliver Russian macroeconomic time series, inspired by St Louis FRED."
 
-        - title: Financial models and digital financial twins in project finance - work in progress
+        - title: Financial models and digital financial twins in project finance
           link: 
-          tagline: "Draft proposal for voluntary real-time project disclosure"
+          tagline: "Draft proposal for voluntary real-time project disclosure standard."
 
 
 education:
