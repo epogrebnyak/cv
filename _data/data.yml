@@ -65,24 +65,27 @@ career-profile:
           - macroeconomic modeling
 
         Interested in:
-           - digital transformation projects
-           - digital corporate lending solutions
-           - data-driven government policy
+          - digital transformation projects
+          - new corporate credit products
+          - data-driven government policy
 
 experiences:
       - role: Deputy Director, Department for Macroeconomic Forecasting
         company: >
           [VEB](http://veb.ru)
       - role: Managing Director, Strategy Department
-        company: VEB # "[VEB](http://veb.ru)"      
-      - role: Head of Research
-        company: ICSS # "[ICSS](http://icss.ac.ru)"
+        company: >
+          [VEB](http://veb.ru)
+      - role: Senior Researcher, Head of Research
+        company: > 
+          [ICSS](http://icss.ac.ru)
       - role: Specialist
-        company: SibAl 
-        #details: https://en.wikipedia.org/wiki/Basic_Element_(company)
-      - role: Engineer, Researcher
-        company: Center for short-term macroeconomic forecasting / ECFOR
-        details: <http://forecast.ru> <http://ecfor.ru>
+        company: >
+          [SibAl](https://en.wikipedia.org/wiki/Basic_Element_(company))
+      - role: Engineer, Junior Scientific Fellow
+        company: >
+          [Center for Short-term Macroeconomic Forecasting](http://forecast.ru) 
+          / [ECFOR RAS](http://ecfor.ru)
 
 projects:
 
@@ -108,10 +111,15 @@ projects:
 
 
 education:
-    -  degree: Summer school
-       university: CEMFI
-       time: September 2015  
-       details: |
+
+    - degree: Intensive technology studies course
+      time: July 2018
+      university: FSFU, Vladivostok 
+
+    - degree: Summer school
+      university: CEMFI
+      time: September 2015  
+      details: |
         -  [Nowcasting, Short-Term Forecasting 
             and Turning-Points Real-Time 
             Detection (Gabriel Pérez-Quirós)](https://www.cemfi.es/studies/css/course_previous_years.asp?c=14&y=2015)
@@ -149,8 +157,6 @@ education:
     - degree: BSc Economics, MSc Economic Policy
       university: Moscow State University, Economics Department
       time: 1995-2001
-
-
 
 
 # experiences:
