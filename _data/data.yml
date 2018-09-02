@@ -72,28 +72,15 @@ career-profile:
            - data-driven government policy
 
 experiences:
-      -  role: 
-         time: 
-         company: "[VEB](http://veb.ru)"
-         details: 
-
-       -  role: ""
-          time: ""
-          company: [ICSS](http://icss.ac.ru)
-          details: ""
-
-       -  role: ""
-          time: ""
-          company: [SibAl](https://en.wikipedia.org/wiki/Basic_Element_(company))
-          details: ""
-
-       -  role: ""
-          time: ""
-          company: [CMASF](http://forecast.ru) / [IEF RAS](http://ecfor.ru)
-          details: ""
+      - company: "[VEB](http://veb.ru)"
+      - company: "[ICSS](http://icss.ac.ru)"
+      - company: "[SibAl](https://en.wikipedia.org/wiki/Basic_Element_(company))"
+      - company: "[CMASF](http://forecast.ru) / [IEF RAS](http://ecfor.ru)"
 
 projects:
+
      title: Teaching, research and open source projects
+
      # intro: >
         # You can list your side projects or open source libraries in this
         # section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
