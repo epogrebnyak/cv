@@ -98,7 +98,7 @@ projects:
           link: https://github.com/ru-corporate
           tagline: "Build a data pipeline to analyse 1.2 million Russian firms capital structure, investment and productivity."
 
-        - title: Russian macroeconomic time series dataset.
+        - title: Russian macroeconomic time series dataset
           link: https://github.com/mini-kep/intro
           tagline: "Data acquisition, storage, browser and a public end-user API 
                     to deliver Russian macroeconomic time series, inspired by St Louis FRED."
