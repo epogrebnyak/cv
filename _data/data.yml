@@ -98,10 +98,10 @@ projects:
           link: https://github.com/ru-corporate
           tagline: "Build a data pipeline to analyse 1.2 million Russian firms capital structure, investment and productivity."
 
-        - title: Macroeconomic time series dataset (API and browser)
+        - title: Russian macroeconomic time series dataset.
           link: https://github.com/mini-kep/intro
-          tagline: "Parsers, storage and a public end-user API to deliver Russian macroeconomic time series, inspired by St Louis FRED."
-
+          tagline: "Data acquisition, storage, browser and a public end-user API 
+                    to deliver Russian macroeconomic time series, inspired by St Louis FRED."
         - title: Financial models and digital financial twins in project finance
           link: 
           tagline: "Draft proposal for voluntary real-time project disclosure standard."
