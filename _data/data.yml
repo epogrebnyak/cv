@@ -83,7 +83,7 @@ experiences:
         details: https://en.wikipedia.org/wiki/Basic_Element_(company)
       - role: Engineer, Researcher
         company: CMASF / Ecfor
-        details: http://forecast.ru http://ecfor.ru
+        details: <http://forecast.ru> <http://ecfor.ru>
 
 projects:
 
