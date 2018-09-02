@@ -72,10 +72,18 @@ career-profile:
            - data-driven government policy
 
 experiences:
-      - company: VEB # "[VEB](http://veb.ru)"
-      - company: ICSS # "[ICSS](http://icss.ac.ru)"
-      - company: SibAl # "[SibAl](https://en.wikipedia.org/wiki/Basic_Element_(company))"
-      - company: CMASF #"[CMASF](http://forecast.ru) / [IEF RAS](http://ecfor.ru)"
+      - role: Deputy Director, Department for Macroeconomic Forecasting
+        company: VEB # "[VEB](http://veb.ru)"
+      - role: Managing Director, Strategy Department
+        company: VEB # "[VEB](http://veb.ru)"      
+      - role: Head of Research
+        company: ICSS # "[ICSS](http://icss.ac.ru)"
+      - role: Specialist
+        company: SibAl 
+        details: https://en.wikipedia.org/wiki/Basic_Element_(company)
+      - role: Engineer, Researcher
+        company: CMASF / Ecfor
+        details: http://forecast.ru http://ecfor.ru
 
 projects:
 
@@ -87,7 +95,7 @@ projects:
         # Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
 
      assignments:
-        - title: Machine-readable financial statements course, Center for Financial Mathematics (CMF)
+        - title: Machine-readable financial statements course, Center for Financial Mathematics
           link: https://github.com/ru-corporate
           tagline: "Build a data pipeline to analyse 1.2 million Russian firms capital structure, investment and productivity."
 
@@ -103,7 +111,7 @@ projects:
 education:
 
     #-  degree: Short courses
-    #   university: K
+    #   university: 
     #   time: 2009
     #   details: |
 
