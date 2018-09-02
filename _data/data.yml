@@ -112,14 +112,14 @@ education:
     -  degree: Summer school
        university: CEMFI
        time: September 2015  
-       details: >
+       details: |
         [Nowcasting, Short-Term Forecasting, and Turning-Points Real-Time 
          Detection (Gabriel Pérez-Quirós)](https://www.cemfi.es/studies/css/course_previous_years.asp?c=14&y=2015)
 
     -  degree: Short courses
        university: IfW Kiel Advanced Studies Program
        time: 2012-2014   
-       details: >
+       details: |
         -	Exchange-Rate Economics (Lucio Sarno, City University, London) 
         -	Applied Econometrics (Stefan Reitz, Kiel Institute)
         - Monetary Policy: Theory and Practice (Volker Wieland, Goethe-Universität Frankfurt)
@@ -127,7 +127,7 @@ education:
     -  degree: Summer School
        university: Barcelona Graduate School of Economics
        time: 2013-2014
-       details: >
+       details: |
          - Exchange Rate Predictability (Barbara Rossi, CREI)
          - Modeling Non-stationary and Non-linear Time Series (Laura Mayoral, Gabriel Perez-Quiros)
          - Systemic Risk and Macroprudential Policy.
