@@ -109,13 +109,13 @@ projects:
 
 education:
 
-    - degree: <Island 10-21> technology studies course
+    - degree: "'Island 10-21' intensive course"
       time: July 2018
       university: FEFU, Vladivostok 
       details: |
          - Deep learning
          - Machine-readable law
-         - Digital production systems
+         - Industry 4.0 production systems
 
     - degree: Summer school
       university: CEMFI
