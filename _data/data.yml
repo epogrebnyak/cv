@@ -113,7 +113,7 @@ projects:
 
 education:
 
-    - degree: "'Island 10-21' intensive course"
+    - degree: "'Island 10-21' Intensive Study Course"
       time: July 2018
       university: FEFU, Vladivostok 
       details: |
@@ -149,14 +149,14 @@ education:
        details: |
          - Exchange Rate Predictability (Barbara Rossi, CREI)
          - Modeling Non-stationary and Non-linear Time Series (Laura Mayoral, Gabriel Perez-Quiros)
-         - Systemic Risk and Macroprudential Policy.
+         - Systemic Risk and Macroprudential Policy
    
     - degree: PhD Economics
       university: Russian Academy of Sciences
       time: 2009
       #    Воспроизводственные параметры и механизмы регулирования электроэнергетики России в условиях перехода к конкурентному рынку
       details: |
-          Thesis: ["Policy parameters in comptetitive electricity market in Russia".](https://ecfor.ru/publication/mehanizmy-regulirovaniya-elektroenergetiki-rossii/)
+          Thesis: ["Policy parameters in competitive electricity market in Russia".](https://ecfor.ru/publication/mehanizmy-regulirovaniya-elektroenergetiki-rossii/)
            - Agent-based plant-level model of competitive wholesale electricty market.
            - Prices affected by world, resources, auction rules and agent behaviour.
            - Reserve margin requirement should complement prices as reform policy target.
