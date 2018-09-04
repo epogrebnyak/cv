@@ -51,9 +51,9 @@ career-profile:
     title: Career Profile
     summary: |
 
-        Proficient in quantitative modeling and delivery of findings
-        to various audiences. Experienced in financial institutions startegy
-        and corprate lending business processes.
+        Proficient in quantitative modeling and communication of findings 
+        to various audiences. Experienced in financial institutions strategy
+        and reengineering of corporate lending business process.
 
         My background involves:
           - national development bank strategy role
@@ -96,16 +96,20 @@ projects:
      assignments:
         - title: Machine-readable financial statements course, Center for Financial Mathematics
           link: https://github.com/ru-corporate
-          tagline: "Build a data pipeline to analyse 1.2 million Russian firms capital structure, investment and productivity."
+          tagline: "Build a data pipeline to analyse 1.2 million Russian firms capital structure, sales and investment."
 
-        - title: Russian macroeconomic time series dataset
+        - title: Russian macroeconomic time series dataset        
           link: https://github.com/mini-kep/intro
           tagline: "Data acquisition, storage, browser and a public end-user API 
                     to deliver Russian macroeconomic time series, inspired by St Louis FRED."
+
         - title: Financial models and digital financial twins in project finance
           link: 
           tagline: "Draft proposal for voluntary real-time project disclosure standard."
 
+        - title: Project contributor
+          link: https://github.com/WLM1ke/PortfolioOptimizer
+          tagline: "Optimization of long-term Russian equity portfolio based on dividend forecast."
 
 education:
 
@@ -113,7 +117,7 @@ education:
       time: July 2018
       university: FEFU, Vladivostok 
       details: |
-         - Deep learning
+         - ML/DL courses
          - Machine-readable law
          - Industry 4.0 production systems
 
