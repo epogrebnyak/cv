@@ -103,7 +103,7 @@ projects:
           tagline: "A public end-user API to deliver Russian macroeconomic time series, inspired by St Louis FRED."
 
         - title: Financial models and digital financial twins in project finance
-          link: 
+          link: https://speakerdeck.com/epogrebnyak/financial-twins-in-project-finance
           tagline: "Draft proposal for voluntary real-time project disclosure standard."
 
         - title: Project contributor
