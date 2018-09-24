@@ -75,7 +75,7 @@ experiences:
           [VEB](http://veb.ru)
       - role: Senior Researcher, Head of Research
         company: > 
-          [ICSS](http://icss.ac.ru)
+          [ICSS](https://icss.ru/images/pdf/presentation_eng.pdf)
       - role: Specialist
         company: >
           [SibAl](https://en.wikipedia.org/wiki/Basic_Element_(company))
@@ -96,12 +96,11 @@ projects:
      assignments:
         - title: Machine-readable financial statements course, Center for Financial Mathematics
           link: https://github.com/ru-corporate
-          tagline: "Build a data pipeline to analyse 1.2 million Russian firms capital structure, sales and investment."
+          tagline: "A data pipeline to analyse 1.2 million Russian firms financial reports."
 
         - title: Russian macroeconomic time series dataset        
           link: https://github.com/mini-kep/intro
-          tagline: "Data acquisition, storage, browser and a public end-user API 
-                    to deliver Russian macroeconomic time series, inspired by St Louis FRED."
+          tagline: "A public end-user API to deliver Russian macroeconomic time series, inspired by St Louis FRED."
 
         - title: Financial models and digital financial twins in project finance
           link: 
