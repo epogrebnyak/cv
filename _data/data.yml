@@ -8,7 +8,7 @@ sidebar:
 
     # Profile information
     name: Evgeny Pogrebnyak
-    tagline: Economist (Financial Institutions/Macro)
+    tagline: Economist
     avatar: ep.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -30,18 +30,30 @@ sidebar:
       - idiom: French
         level: Good working knowledge
 
+      - idiom: Spanish
+        level: Working knowledge
+
       - idiom: Russian
         level: Native
 
     interests:
 
-      - item: Financial institutions, development banks, capital projects
+      - item: Industry analysis, supply chains, market forecast. 
+              Special expertise in automotive sector (book) and 
+              power sector modelling (PhD thesis).
         link:
 
-      - item: Corporate finance, industry analysis and industrial policy
+      - item: Financial institutions. Development banks and development impact assessment.
         link:
 
-      - item: Macroeconomic forecasting and econometrics
+      - item: Corporate finance, capital projects financing. 
+        link:
+
+      - item: Data management and governance. ETL/data engineering.
+              Official statistics, surveys. 
+        link:
+
+      - item: Macroeconomic forecasting. Econometrics.
         link:
 
       - item: Clean code and reproducible research
@@ -56,17 +68,22 @@ career-profile:
         and reengineering of corporate lending business process.
 
         My background involves:
+
           - national development bank strategy role
           - market modelling (power sector) and industry research (automotive)
           - industrial policy analysis
           - macroeconomic modeling
 
         Interested in:
-          - digital transformation projects
-          - new corporate credit products
+
+          - corporate transformation projects  
+          - market assesment and modelling          
           - data-driven government policy
 
 experiences:
+      - role: Director for Business Intelligence, Signum Capital, Gmbh
+        company: >
+          [Signum](https://www.signumcapital.de/)
       - role: Deputy Director, Department for Macroeconomic Forecasting
         company: >
           [VEB](http://veb.ru)
@@ -79,7 +96,7 @@ experiences:
       - role: Specialist
         company: >
           [SibAl](https://en.wikipedia.org/wiki/Basic_Element_(company))
-      - role: Engineer, Junior Scientific Fellow
+      - role: Engineer, Junior Research Fellow
         company: >
           [Center for Short-term Macroeconomic Forecasting](http://forecast.ru) 
           / [Institute for Economic Forecasting RAS](http://ecfor.ru)
@@ -94,6 +111,10 @@ projects:
         # Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
 
      assignments:
+        - title: Introduction to IT Architecture
+          link: https://speakerdeck.com/epogrebnyak/it-arkhitiektura-opyt-priepodavaniia
+          tagline: "Filling a skill gap between business analysts, developpers and architects."
+
         - title: Machine-readable financial statements course, Center for Financial Mathematics
           link: https://github.com/ru-corporate
           tagline: "A data pipeline to analyse 1.2 million Russian firms financial reports."
@@ -257,13 +278,13 @@ skills:
         level: 65%
 
       - name: Visualisation (matplotlib, bokeh, plotly)
-        level: 65%
+        level: 50%
 
       - name: Econometrics (EViews, gretl)
         level: 50%
 
       - name: API design (Flask)
-        level: 35%
+        level: 25%
 
       - name: Databases (MySQL/SQLAlchemy)
         level: 25%
