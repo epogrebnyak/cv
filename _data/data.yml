@@ -39,25 +39,26 @@ sidebar:
     interests:
 
       - item: Industry analysis, supply chains, market forecast. 
-              Special expertise in automotive sector (book) and 
-              power sector modelling (PhD thesis).
         link:
 
-      - item: Financial institutions. Development banks and development impact assessment.
+      - item: Financial institutions. Development banks.
         link:
 
       - item: Corporate finance, capital projects financing. 
         link:
 
-      - item: Data management and governance. ETL/data engineering.
-              Official statistics, surveys. 
+      - item: Data management and governance. Economic statistics, surveys. 
         link:
 
       - item: Macroeconomic forecasting. Econometrics.
         link:
 
-      - item: Clean code and reproducible research
+      - item: Clean code and reproducible research.
         link:
+
+      - item: IT systems reliability and verification, SLAs.
+        link:
+
 
 career-profile:
     title: Career Profile
@@ -81,18 +82,18 @@ career-profile:
           - data-driven government policy
 
 experiences:
-      - role: Director for Business Intelligence, Signum Capital, Gmbh
+      - role: Director for Business Intelligence
         company: >
-          [Signum](https://www.signumcapital.de/)
+          [Signum Capital, Gmbh](https://www.signumcapital.de/)
       - role: Deputy Director, Department for Macroeconomic Forecasting
         company: >
-          [VEB](http://veb.ru)
+          [VEB - National Development Bank](http://veb.ru)
       - role: Managing Director, Strategy Department
         company: >
-          [VEB](http://veb.ru)
+          [VEB - National Development Bank](http://veb.ru)
       - role: Senior Researcher, Head of Research
         company: > 
-          [ICSS](https://icss.ru/images/pdf/presentation_eng.pdf)
+          [Institute for Complex Strategic Studies](https://icss.ru/images/pdf/presentation_eng.pdf)
       - role: Specialist
         company: >
           [SibAl](https://en.wikipedia.org/wiki/Basic_Element_(company))
