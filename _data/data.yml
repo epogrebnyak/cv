@@ -41,16 +41,13 @@ sidebar:
       - item: Industry analysis, supply chains, market forecast. 
         link:
 
-      - item: Financial institutions. Development banks.
-        link:
-
-      - item: Corporate finance, capital projects financing. 
-        link:
-
-      - item: Data management and governance. Economic statistics, surveys. 
+      - item: Financial institutions, development banks, capital projects financing. 
         link:
 
       - item: Macroeconomic forecasting. Econometrics.
+        link:
+
+      - item: Corporate/ product strategy, data management and governance. 
         link:
 
       - item: Clean code and reproducible research.
@@ -64,24 +61,19 @@ career-profile:
     title: Career Profile
     summary: |
 
-        Proficient in quantitative modeling and communication of findings 
-        to various audiences. Experienced in financial institutions strategy
-        and reengineering of corporate lending business process.
-
         My background involves:
 
           - national development bank strategy role
+          - bank corporate lending (eg product/process design, portfolio analysis)
           - market modelling (power sector) and industry research (automotive)
-          - industrial and competition policy analysis
-          - macroeconomic modeling
+          - analysis of industrial policy and competition policy
+          - macroeconomic forecasting
 
         Interested in:
 
           - corporate transformation projects
-          - market assesment and modelling          
-          - data-driven government policy
-          - bank corporate lending solutions (eg product/process design, portfolio analysis)
-          - filling gaps between business and IT strategy          
+          - data-driven decision-making
+          - bridging a gap between business and IT strategy          
 
 experiences:
       - role: Director for Business Intelligence
@@ -263,10 +255,10 @@ skills:
     title: Technical competences
     toolset:
       - name: Python
-        level: 75%
+        level: 65%
 
       - name: R
-        level: 50%
+        level: 40%
 
       - name: Julia
         level: 20%
